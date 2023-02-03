@@ -30,5 +30,5 @@ This project uses only your computer camera and none further equipment is needed
 The AI Virtual Mouse has also a screenshot function by tapping your ring-finger and your thumb (landmarks 4 & 16). Furthermore a "Click and drag" function is provided every time the user "hold" the index finger and thumb together.
 
 
-## Recommended instructions for use
+## Recommended instructions 
 It is recommended to use the Virtual Mouse from a distance around 40-50 cm from your webcam and always keep in mind your hands should be in the frame in order for it to work properly.
