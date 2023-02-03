@@ -1,13 +1,28 @@
 # AI_Virtual_Mouse
-In this repository you will find a python script for an AI Virtual Mouse.
 
-The dependances you will need:
+## In this repository you will find a fully functional example on how to create an AI Virtual Mouse with python.
 
-openCV
+This project consist of a sample code which shows how to do the following:
 
-Mediapipe
+* Open the webcam with OpenCV (on a laptop)
+* Detect some specific landmarks and gestures on the users hand with Mediapipe
+* Translate the movements of the user's hand into actual working commands on your computer with PyAutoGUI 
 
-PyAutogui
+## The dependances you will need:
+
+* OpenCV
+
+* Mediapipe
+
+* PyAutoGUI
+
+## How to use the AI Virtual Mouse
+
+This code can be used in any type of computer (Desktop or laptop) by downloading the given code and open it with a code editor of your choice.
+
+## Opereting Principle
+
+This project uses only your computer camera and none further equipment is needed. Once the camera is open, Mediapipe will detect the landmarks on user's hand and depect them on the frame. More specifically the cursor will be landmark number 9 (as it is more stable). In order to click the mouse, simply tap your index finger and your thumb (landmarks 8 & 4). In case you need to right-click, tap your middle finger and your thumb (landmarks 12 & 4). You can see the landmarks from the following picture:   
 
 
-
+- ![Mediapipe](https://mediapipe.dev/images/mobile/hand_landmarks.png)
