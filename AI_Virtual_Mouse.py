@@ -3,8 +3,8 @@ import cv2
 import mediapipe as mp
 import pyautogui
 
-#Open the camera
-cap = cv2.VideoCapture(0)
+#Open the camera and set up the mediapipe's variables
+cap = cv2.VideoCapture(0) 
 hand_detector = mp.solutions.hands.Hands()
 drawing_utils = mp.solutions.drawing_utils
 screen_height , screen_width = pyautogui.size()
