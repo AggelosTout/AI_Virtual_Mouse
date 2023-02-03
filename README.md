@@ -1,2 +1,2 @@
 # AI_Virtual_Mouse
-AI_Virtual_Mouse repo
+In this repository you will find a python script for an AI Virtual Mouse. 
