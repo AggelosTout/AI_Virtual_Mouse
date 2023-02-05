@@ -8,7 +8,7 @@ This project consist of a sample code which shows how to do the following:
 * Detect some specific landmarks and gestures on the users hand with Mediapipe
 * Translate the movements of the user's hand into actual working commands on your computer with PyAutoGUI 
 
-## The dependances you will need:
+## Requirements
 
 * OpenCV
 
