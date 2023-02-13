@@ -16,6 +16,10 @@ This project consist of a sample code which shows how to do the following:
 
 * PyAutoGUI
 
+In order to install this requirments run this command:
+
+```pip install -r requirements.txt```
+
 ## How to use the AI Virtual Mouse
 
 This code can be used in any type of computer (Desktop or laptop) by downloading the given code and open it with a code editor of your choice.
