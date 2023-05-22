@@ -22,7 +22,7 @@ In order to install this requirments run this command:
 
 ## How to use the AI Virtual Mouse
 
-This code can be used in any type of computer (Desktop or laptop) by downloading the given code and open it with a code editor of your choice.
+This code can be used in any type of computer (Desktop or laptop) by downloading the given code and open it with a code editor of your choice.(PyCharm is recommended)
 
 ## Operating Principle & instructions
 
